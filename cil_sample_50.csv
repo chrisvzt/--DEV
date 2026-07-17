@@ -1,0 +1,392 @@
+﻿xwiki_page,xwiki_rest_url,Business_System,clientname,parentcompany,childcompany,lead,pmlead,notesissues,intake,cid,legalentity,requirequote,whoapprovequote,refusingprojects,followrules,intakeinfo,processingrequirements,securityrequirements,translationmemory,translationglossary,usrequirements,deliveryrequirements,certificationneeded,preferredlinguist,processinginformation,pricingrequirements,pricingstructure,expandoncontract,rushfees,minimums,languagenotincluded,billclient,porequirements,billingcontact,billinginfo
+Client Info Library.Tufts Children's Hospital,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Tufts%20Children's%20Hospital/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,Tufts Children's Hospital,,,,,,related to Tufts Medical Center,,PI,,,,,,,,,,,,,,,,Tufts Medical Pricing. See the [[main page>>https://wiki.llts.com:8181/xwiki/bin/view/Client%20Info%20Library/Tufts%20Medical%20Center]] for pricing sheet,,,,,,,,
+Client Info Library.LCVC Management,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/LCVC%20Management/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,LCVC Management,,,,,,,,LLS,,,,,,,,,,,,,,,,"English to Spanish: $0.15/word - with leveraging 
+FMT: $55/hour
+PR: $60/hour
+10% PM fee (27.50 min)",,,$99 for Spanish ,,,,,
+Client Info Library.North Carolina Central University,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/North%20Carolina%20Central%20University/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,WorkFront,North Carolina Central University,,,,,,,,LLS,,,,,,,,,,,,,,,,School District & Board of Education List Pricing (In DB) ,,,,,,,,
+Client Info Library.University of Maryland Charles Regional Medical Center,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/University%20of%20Maryland%20Charles%20Regional%20Medical%20Center/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,University of Maryland Charles Regional Medical Center,Client Info Library.University of Maryland Medical System,,,,,,direct bill,LLS,,,,,,,,,,,,,,,,[[University of Maryland pricing>>doc:University of Maryland]],,,,,,,,
+Client Info Library.CGI Federal,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/CGI%20Federal/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,CGI Federal,,,,,,There are two billing entities CMHA & PBCA and they should be indicated with project submission.,,LLS,,,,,,,,,,,,,,,"{{pdfviewer file=""SOW - Translation  Localization_CGI Federal_CMHA.pdf""/}}
+
+
+{{pdfviewer file=""SOW - Translation  Localization_CGI Federal_PBCA.pdf""/}}
+
+ ",[[Government List Pricing>>doc:Government List Pricing]],,,"Spanish - $75
+
+Min Language - $99",,CID 9020512070,,,
+Client Info Library.Central Early Steps Program,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Central%20Early%20Steps%20Program/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,,Central Early Steps Program,,,,,,,,LLS,,,,,,,,,,,,,,,,Healthcare pricing,,,,,,,,
+Client Info Library.Florence Unified School District,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Florence%20Unified%20School%20District/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,Florence Unified School District,,,,,,,,LLS,,,,,,,,,,,"For State of Arizona, some groups request translations be completed for 6th grade level or lower. – please confirm with requestor if not specified.
+
+
+Please DO NOT deliver using Zip Files",,,,,"(% style=""color:null"" %)State of Arizona Pricing - NO leveraging
+
+[[image:1642695580816-981.png||height=""437"" width=""906""]]","**NEW PRICING EFFECTIVE 6.24.2016 (Approved contract pricing)**
+
+**Spanish without **formatting   **                                    $0.18**
+
+**Spanish with **formatting   **                                          $0.20**
+
+**All other languages **without formatting **                 $0.27**
+
+**All other languages **with formatting   **                     $0.30**
+
+We cannot charge PM fees.
+
+PR can be explicitly quoted as ""Off-contract."" Client approval of quote is required, though.",$.07/word,"|(((
+Translation services shall be billed with a 300 word minimum.
+
+For billing purposes a word shall be defined as five (5) characters in the requested target language.
+)))",,,,,
+Client Info Library.Butte County,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Butte%20County/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,Butte County,State of California,Client Info Library.Butte County Department of Behavioral Health,,,,,,LLS,,,,,,,,,,,,,,,,[[Government List>>https://wiki.llts.com:8181/xwiki/bin/view/Client%20Info%20Library/Government%20List%20Pricing]] - with leveraging,,,,,,,,
+Client Info Library.Children's Advocacy Center of Douglas County,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Children's%20Advocacy%20Center%20of%20Douglas%20County/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,,,,,,,,,,LLS,,,,,,,,,,,,,,,,"Margin pricing
+
+
+**English to...**
+
+Braille 40% margin + pm Fee
+
+Spanish (US): $0.15 / $0.08 / $0.04 / $65/hr
+
+
+**Other**
+
+FMT/CRM $55
+
+PM 10% 27.50 Min.
+
+ ",,,,,,,,
+Client Info Library.US Department of Labor - OSHA,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/US%20Department%20of%20Labor%20-%20OSHA/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,,US Department of Labor - OSHA,,,,,,Please cc Jon Bove on all client correspondence. ,,LLS,,,,,,Please cc Jon Bove on all client correspondence. ,,,,,,,,,,GSA Pricing (in Pricing Database.),Transcription: 50% GM.,,,,,,,
+Client Info Library.California Department of Alcoholic Beverage Control (CMAS),https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/California%20Department%20of%20Alcoholic%20Beverage%20Control%20(CMAS)/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,California Department of Alcoholic Beverage Control (CMAS),Client Info Library.California Multiple Award Schedule (CMAS),,,,,,,LLS,,,,,,,,,,,,,,,,[[California Multiple Award Schedule (CMAS)>>doc:California Multiple Award Schedule (CMAS)]],,,,,,,,
+Client Info Library.San Louis Obispo County District Attorney's Office,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/San%20Louis%20Obispo%20County%20District%20Attorney's%20Office/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,San Louis Obispo County District Attorney's Office,Client Info Library.State of California,,,,,,697661,LLS,,,,,,,,,,,,,,,,see SOW attached,,,,,,,,
+Client Info Library.San Bruno VA Clinic | VA San Francisco Health Care,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/San%20Bruno%20VA%20Clinic%20%7C%20VA%20San%20Francisco%20Health%20Care/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,San Bruno VA Clinic | VA San Francisco Health Care,,,,,,,"Direct Bill number:
+
+9029019836",LLS,,,,,,,,,,,,,,,,,,,,,,,,
+Client Info Library.Change Research,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Change%20Research/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,,,,,,,,,,LLS,,,,,,,,,,,,,,,,"Margin
+
+English (US) to Spanish (Mexico) - $0.15 | $0.08 | $0.04 | $65/hr
+
+
+FMT $55/hr | 1 hour min
+
+PM 10% | 27.50 min",,,,,,,,
+Client Info Library.Blythedale Children's Hospital,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Blythedale%20Children's%20Hospital/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,Blythedale Children's Hospital,,,,,,,299091 **ONLY - Do not create new direct bill number. **,LLS,,,,,,,,,"[[**Healthcare Style Guide**>>url:https://wiki.llts.com:8181/xwiki/bin/download/Knowledge+Management/Healthcare+style+guide/WebHome/Healthcare%20Style%20Guide.pdf||rel=""__blank""]]** (% style=""color:#ff0000"" %)(Mandatory: Please provide to linguistic teams.)(%%)**",,,,,,,Healthcare List pricing with leveraging.,,,,,Invoices are to be added directly to their monthly interpreting invoice. Do not send them to the requesters. ,,"Billing is to be direct bill to this number, 299091, 9029018172, but all invoices should be sent to Accounts Payable AP@blythedale.org 
+Billing address is:
+Blythedale Childrens Hospital
+95 Bradhurst Ave
+Valhalla, NY 10595
+ Do NOT send the invoices to the requestor, who is always Ciera Carhart  <ccarhart@blythedale.org>",
+Client Info Library.Legal Services of New Jersey,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Legal%20Services%20of%20New%20Jersey/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,Legal Services of New Jersey,,,,,,,509340,LLS,,,,,,,,,,,,,,,,,"[[Rack Rates>>https://wiki.llts.com:8181/xwiki/bin/view/Knowledge%20Management/List%20Pricing%20-%20LLTS%20Rack%20Rates%20%28General%29/]] - with leveraging 
+
+Arabic (Sudan) to English: $0.22/word",50% Rush (applies to all languages) ,,,,,,
+Client Info Library.Fox Chase Cancer Center,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Fox%20Chase%20Cancer%20Center/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,,Fox Chase Cancer Center,,,,,,,,LLS,,,,,,,,,,,,,,,,Healthcare pricing.,,,,,,,,
+Client Info Library.Beacon Health Options,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Beacon%20Health%20Options/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,Beacon Health Options,,,,,"Effective 05/21/2021, removed Value Options referenced and move all 2020-21 Value Options projects to Beacon Health Options, and asked Kurt and Customer Care to change 9029003613 to Beacon Health Options.",,"(% style=""line-height:1.4em"" %)~*~*9.15.2014
+
+* (% style=""line-height:1.4em"" %)Confirmed with Billing at LLS that the account 9029003613 is paid in full and can now be used. Billing contact for reference:
+
+(% style=""line-height:1.4em"" %)Rosemary Roberts(%%)
+(% style=""line-height:1.4em"" %)Beacon Health Options(%%)
+(% style=""line-height:1.4em"" %)10 British American Blvd.(%%)
+(% style=""line-height:1.4em"" %)Latham NY(%%)
+(% style=""line-height:1.4em"" %)12110(%%)
+[[Rosemary.roberts@valueoptions.com>>path:mailto:Rosemary.roberts@valueoptions.com||style=""line-height: 1.4em; background-color: rgb(255, 255, 255);""]]
+(% style=""line-height:1.4em"" %)518-220-8122
+
+* (% style=""background-color:#f9cb9c; color:#000000; line-height:1.4em"" %)**DO NOT use CID 873388**",LLS,,,,,,,,,,,,,,,," 
+
+{{pdfviewer file=""Beacon Pricing.pdf""/}}",Currency Conversions at $55.00/hr,,,,,,,
+Client Info Library.Ascend Justice,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Ascend%20Justice/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,,,,,,,,,,LLS,,,,,,,,,,,,,,,,"Ballpark rates approved in 6822232:
+
+English to Arabic - $0.18
+
+English to Chinese(S) - $0.18
+
+English to Polish - $0.22
+
+English to Spanish(US) - $0.15
+
+DTP $55/ HR
+
+PM 10% 27.50 min",,,,,,,,
+Client Info Library.Partners Behavioral Health Management,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Partners%20Behavioral%20Health%20Management/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,Partners Behavioral Health Management,,,,,,,,Fluent,"Yes, quote required",,,,,,,,"[[**Healthcare Style Guide**>>url:https://wiki.llts.com:8181/xwiki/bin/download/Knowledge+Management/Healthcare+style+guide/WebHome/Healthcare%20Style%20Guide.pdf||rel=""__blank""]]** (% style=""color:#ff0000"" %)(Mandatory: Please provide to linguistic teams.)(%%)**",,,,,,,"Margin Pricing
+
+English to Spanish (US): $0.12/0.06/0.03
+
+English to Spanish (US) PR: $60/hour 
+
+$55/hour FMT
+
+10% PM fee - $27.50 min",Volume and Contract discounts based on individual languages,"Yes, 25%","$50 minimum, $100 Rush minimum",,,,,
+Client Info Library.William Bee Ririe Hospital,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/William%20Bee%20Ririe%20Hospital/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,,William Bee Ririe Hospital,,,,,,,,LLS,,,,,,,,,,,,,,,,LLS Block,,,,,,,,
+Client Info Library.Charlotte Douglas International Airport,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Charlotte%20Douglas%20International%20Airport/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,Charlotte Douglas International Airport,State of North Carolina,,,,,,517020 - City of Charlotte - Aviation Dept,LLS,,,,,,,,,,,,,,,,[[National IPA Pricing>>doc:National IPA - Omnia Pricing]],"(% style=""background-color:#f1c40f"" %)**Client has a connector through LocHub. For connector projects please appply $0.02/word (even repetitions). This is a pass through fee that we are charged on all words by LocHub.**",,,,,,,
+Client Info Library.Rock County Human Services Behavioral Health-CCS,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Rock%20County%20Human%20Services%20Behavioral%20Health-CCS/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,,Rock County Human Services Behavioral Health-CCS,,,,,,,,LLS,,,,,,,,,,,,,,,,Government List Pricing.,,,,,,,,
+Client Info Library.Burlington United Methodist Family Services,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Burlington%20United%20Methodist%20Family%20Services/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,,,,,,,,,,LLS,,,,,,,,,,,,,,,,"[[List Pricing - Charity, Nonprofit List Pricing>>https://wiki.llts.com:8181/xwiki/bin/view/Knowledge%20Management/List%20Pricing%20-%20Charity%2C%20Nonprofit%20List%20Pricing/]]",,,,,,,,
+Client Info Library.San Joaquin Regional Transit District,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/San%20Joaquin%20Regional%20Transit%20District/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,San Joaquin Regional Transit District,,,,,,,"536518 - San Joaquin Regional Transit District (RTD)
+
+506045 - San Joaquin RTD Marketing Customer Engagement ",LLS,,,,,,,,,,,,,,,,"Contract - same as CMAS
+
+{{pdfviewer file=""PRICING-NTPandPO_20200115 FEC.pdf""/}}
+
+ ","in line with CMAS, we've quoted off contract services
+
+Proofreading (off contract) $65.00/hour
+
+Formatting (off contract)  $55.00/hour",,,,,PO# P123680,,
+Client Info Library.NYS Hudson Valley Justice Center,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/NYS%20Hudson%20Valley%20Justice%20Center/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,NYS Hudson Valley Justice Center,State of New York,,,,,,509385,LLS,"Upon request.
+Client custom Project Confirmation and Quote Template set to NYS PS69777
+ ",,,,,,,,,,,,,,Client doesn't get leveraging,Client falls under NYS contract #PS69777,"Each language is priced a tiered per word rate. Please refer to “New York State Contract PS69777 Translation pricing 10-2022-2027” sheet for additional details.
+
+Tier 1: $0.17/word
+Spanish, Chinese, Russian, Italian, French, Haitian Creole, Korean, Arabic, Bengali and Polish
+Tier 2: $0.24/word
+All other languages
+
+NOTE: If the requested language is rare and our resources are very limited per Jon Bove's confirmation and approval can charge up to $0.55/word
+
+Formatting (Desktop Publishing):   
+$60/hour for all languages
+
+Document Review (for stand-alone copyedit projects): $55/hour
+
+ADDITIONAL PRICING COMPONENTS
+Client is not charged for the following services:
+~* Proofreading
+~* Project Management
+~* Engineering
+
+OFF CONTRACT (Priced at 50% margin):
+~* Transcription
+~* Recording",25%,No,,,,,"BDM: 
+
+Daniel McAteer
+
+Phone: 929-232-9665
+
+Email: dmcateer@llts.com"
+Client Info Library.Orchid Diagnostics,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Orchid%20Diagnostics/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,,Orchid Diagnostics,,,,,,,,LLS,,,,,,,,,,,,,,,,LLS Block,,,,,,,,
+Client Info Library.ACH Child and Family Services,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/ACH%20Child%20and%20Family%20Services/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,ACH Child and Family Services,,,,,,,,LLS,,,,,,,,,,,,,,,,State of Texas - no leveraging ,,,,,,,,
+Client Info Library.Southern Alleghenies Planning and Development Commission,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Southern%20Alleghenies%20Planning%20and%20Development%20Commission/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,,Southern Alleghenies Planning and Development Commission,,,,,,,,LLS,,,,,,,,,,,,,,,,"
+
+ 
+
+
+|**TARGET LANGUAGES**|**Translation Rate**|**Minimum**
+|Spanish (US), Spanish (Latin America)|$0.16/word|$99.00/Minimum
+|All other Languages offered by LanguageLine (170+)|(% colspan=""2"" %)Pricing available upon request
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+**Additional Pricing Components                                                                              Standard               Expedited**
+
+**~                                                                                                                                                  Turnaround        Turnaround**
+
+n  Additional charge for proofreading................................................................................ $65.00/hour ............... Rush Fee
+
+n  Additional charge for basic layout/formatting............................................................... $55.00/hour ............... Rush Fee
+
+n  Document Quality Assurance Review............................................................................ $45.00/hour ............... Rush Fee
+
+n  File Preparations/TM Maintenance................................................................................. $65.00/hour................ Rush Fee
+
+n  Project Management..................................................................................10% of overall project cost (0.5 hr. min. @$55/hour)
+
+
+
+**~ **
+
+
+**OTHER SERVICES PRICING:**
+
+n  Graphic design services........................................................................................................................................... Individual Quote
+
+n  In-language recordings............................................................................................................................................. Individual Quote
+
+n  Transcription/translation of audio or videos files................................................................................................. Individual Quote
+
+n  No delivery charge for Fax, E-mail, or U.S. Mail. Additional charge for courier services only.
+
+n  Unless indicated otherwise, a one hour minimum will apply to all hourly services.
+
+
+ 
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+**DELIVERY GUIDELINES:**
+
+Because the actual number of English words is not known until the source document has been translated, turn-around commitments are based on the estimated number of English words that will be delivered, as determined in LanguageLine’s best judgment before commencing work. Additional services could add extra days to a project timeline.
+
+n  Less than 1,000 words.............................................................................................................................................. 1 - 3 business days
+
+n  1,001 to 2,500 words................................................................................................................................................. 4 - 6 business days
+
+n  2,501 to 7,500 words................................................................................................................................................. 6 - 8 business days
+
+n  Greater than 7,501 words......................................................................................................................................... 8 + business days
+
+
+ 
+
+
+
+
+**~ **
+
+
+**RUSH FEES:**
+
+A 50% rush charge will apply when an expedited delivery date is requested. 
+",,,,,,,,
+Client Info Library.Fern Health,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Fern%20Health/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,Fern Health,,,,,"[[image:1694555013244-280.png||height=""63"" width=""138""]]
+
+
+Connector closed Nov 2024",,"Bill to:Fern Health
+Attn: Cindy Ramsey
+cindy.ramsey@fernhealth.com
+360 Mount Kemble Avenue, Suite 3000
+Morristown, NJ 07960",Lingo Systems (LLTS),"* For content received via Connector please process as preapproved, per Graham on 10.20.2023
+* Connector projects will be set up with [[mike.howard@fernhealth.com>>path:mailto:mike.howard@fernhealth.com]] as the contact, into Spanish (US) as the language, ""Connector Project"" XTRF Service. Add Aprilia Thompson (apriliaalam@realizedcare.com) as an additional contact.
+* Group together when they are created. Send to Oussama for lab efforts and assign to Chris White as the PM once efforts are ready. 
+* Other project types will require quotes and be submitted through the customer portal.",,,,Will submit by connector (which is directed to quote starts) and also through the LanguageLine customer portal.,"(% class=""box infomessage"" %)
+(((
+__**Connector Solution: Figma and Contentful **__
+)))
+
+1. Client submits via connector, which generates a notification email to the starts team ([[projectstarts@llts.com>>path:mailto:projectstarts@llts.com]]) & Lab (Oussama: [[oabou-jamous@llts.com>>path:mailto:oabou-jamous@llts.com]])
+1. When notification is received, Starts creates a new project in XTRF
+11. Process workflow: Connector Project
+11. Add placeholder file “Connector Translation Request” 
+11. Change Type of Project to “Continuous Request”
+11. Add to Group
+11. Tag @Oussama  in comments to add efforts
+1. Lab/Oussama preps and notifies Starts when files are ready
+1. Starts assigns a PM
+1. PM to Linguist (Translation)
+1. PM notifies Lab when files are returned from translation
+1. Lab delivers to Client via Connector
+1. PM sends Client delivery notification with placeholder file
+1. PM closes projects as Delivered and releases payables
+1. End of Month - Project Billing adds receivables for the Group/all continuous request projects (Eric is building a view for these “continuous request” monthly project requests) and marks “Ready to review receivables” on each project in group to release to accounting
+1. Accounting invoices
+
+ ",,,,,,,,,"* Connector fee: Yes,** +$0.02/word all text**
+* Other pricing in contract? (% style=""background-color:#f1c40f"" %)Have not formally presented pricing(%%). BDM set rates:
+** $0.12/word English (US) to Spanish (US) with leveraging
+** $65 PR (when required)
+** $55 Format (when required)
+** $99 Minimum Spanish 
+** PM fee 10%, $27.50 min.
+* **Yes, we pass leveraging to this client**",,"We do pass on leveraging on the TR/CE CAT receivables, but the $0.02 should be added using Administrative Fee (job type in XTRF) with a description of “Connector Technology Fee” for all text.",,,,,,,
+Client Info Library.CONTACT Helpline,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/CONTACT%20Helpline/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,,,,,,,,,,LLS,,,,,,,,,,,,,,,,"LLS Pricing given historically, 2012, 2013, 2017.
+
+[[Gov List Pricing>>https://wiki.llts.com:8181/xwiki/bin/view/Client%20Info%20Library/Government%20List%20Pricing]] per solutions, Dec 2020",,,,,,,,
+Client Info Library.University of Maryland Capital Region Health,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/University%20of%20Maryland%20Capital%20Region%20Health/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,University of Maryland Capital Region Health,,,,,,"All requestors must have a unique bill account number unless explicitly approved by Roni Osbern. For new requestors, please request new number from Kurt Schneider and cc customerservice@llts.com on request. 
+
+|University of Maryland Capital Region Health|9029008745|Sedwick, Chante
+|University of Maryland Capital Region Health|9029009096|Phillips, Bobbi
+|University of Maryland Capital Region Health|9029016131|Perry, Nikkie
+|University of Maryland Capital Region Health|9029019512|Larson, Sarah",,LLS,,,,,,,,,,,,,,,,"[[University of Maryland Medical System Vizient SV4035 pricing (see Pricing tab, #23)>>https://wiki.llts.com:8181/xwiki/bin/view/Client%20Info%20Library/University%20of%20Maryland%20Medical%20System]]",,,,,,,,
+Client Info Library.Umpqua Health Alliance,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Umpqua%20Health%20Alliance/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,Umpqua Health Alliance,,,,,,,9029018912,LLS,,,,,,,,,,,,"Please issue a certificate of accuracy with each project. Make sure to include a table with the name of the source and translated files.
+
+The client knows that we can only do this when we translate/ translated the entire content. That we can't certify if we only translate pieces from a larger translation.",,,"[[Translation Localization (SOW - Exhibit A)_Umpqua Health Alliance.pdf>>attach:Translation  Localization (SOW - Exhibit A)_Umpqua Health Alliance.pdf||target=""_blank""]]
+
+English to Achinese: $0.33/word
+
+English to Filipino: $0.23/word
+
+__**NO PROOFREADING:**__ This client has routinely rejected quotes with Proofreading in favor of quotes from competitors who do not include PR. We are no longer quoting Proofreading costs to this client, and should not perform proofreading unless it is (a) explicitly quoted, which would be rare and need BDM approval, or (b) the project really requires it and we can fit it into the margin without billing client. If you think your project must have proofreading, please see your vertical lead to confirm with the BDM.
+
+Language independent tasks: unless the project falls under the minimum, please quote all non-linguistic tasks as language independent. The client has had questions about how we calculate formatting and other hours, and has requested that these are shown as a group, rather than per language. ",,,,,,,,,
+Client Info Library.ContinuUs,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/ContinuUs/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,,ContinuUs,,,,,,,,LLS,,,,,,,,,,,,,,,,Healthcare List Pricing,,,,,,,,
+Client Info Library.MedStar Mobile Healthcare,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/MedStar%20Mobile%20Healthcare/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,MedStar Mobile Healthcare,Client Info Library.MedStar Health,,,,,,904100,LLS,,,,,"not affiliated with ""Medstar"" locations in Maryland ",,,,,,,,,,,[[MedStar Health price list>>doc:MedStar Health]],,,,,,,,
+Client Info Library.Spartanburg School District Two,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Spartanburg%20School%20District%20Two/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,Spartanburg School District Two,,,,,,,516092,LLS,,,,,,,,,,,,,,,,[[School District List Pricing.>>https://wiki.llts.com:8181/xwiki/bin/view/Client%20Info%20Library/School%20District%20%26%20Board%20of%20Education%20List%20Pricing]] No leveraging,English to Ukrainian $0.24/word,,,,,,,
+Client Info Library.Grey Bruce Health Services,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Grey%20Bruce%20Health%20Services/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,,Grey Bruce Health Services,,,,,,,,LLS,,,Approved by Bruce Linkleter on 4/6/2015 to accept projects from this Canada company,,,,,,,,,,,,,Health Care pricing,,,,,,,,
+Client Info Library.Suffolk Federal Credit Union,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Suffolk%20Federal%20Credit%20Union/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,WorkFront,,,,,,,,,LLS,,,,,,,,,,,,,,,,Margin pricing,"**English (US) to...**
+
+Spanish (US): $0.15 / $0.08 / $.04 / $65/hr
+
+
+FMT/CRM $55
+
+PM 10% / 27.50 min",,Spanish - $99,,,,,
+Client Info Library.U\.S\. Department of the Air Force,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/U.S.%20Department%20of%20the%20Air%20Force/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,WorkFront,U.S. Department of the Air Force,,,,,,,,LLS,,,,,,,,,,,,,,,,[[GSA pricing>>https://wiki.llts.com:8181/xwiki/bin/view/Client%20Info%20Library/GSA]],,,,,,,,
+Client Info Library.Jamestown Public School District,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Jamestown%20Public%20School%20District/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,,Jamestown Public School District,,,,,,,502794,LLS,,,,,,,,,,,,,,,,School District List Pricing (in Pricing DB.),,,,,,,,
+Client Info Library.Employment Development Department (EDD),https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Employment%20Development%20Department%20(EDD)/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,Employment Development Department (EDD) ,Client Info Library.State of California,,,,"(% class=""box errormessage"" %)
+(((
+**DO NOT provide any translation projects **for The Employment Development Department (EDD) State of California regardless of who is requesting the service. Any questions, please reach out to Joseph Varda. 
+\\This is not an active account.
+)))",,,LLS,,,,,,,,,,,,,,,,,,,,,,,,
+Client Info Library.The Surgery Center,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/The%20Surgery%20Center/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,,The Surgery Center,,,,,,,,LLS,,,,,,,,,,,,,,,,Healthcare pricing,,,,,,,,
+Client Info Library.Epic Brokers,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Epic%20Brokers/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,Epic Brokers,,,,,,,Direct billing- set at contact level and collect direct billing information for new all new contacts,LLS,,,,,,,,,,,,,,,,[[LLTS Rack Rates>>doc:Knowledge Management.List Pricing - LLTS Rack Rates (General).WebHome]],,,,,,,,
+Client Info Library.NYS Nassau Co Office of Crime Victim Advocate,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/NYS%20Nassau%20Co%20Office%20of%20Crime%20Victim%20Advocate/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,NYS Nassau Co Office of Crime Victim Advocate,NYS Nassau County,,,,,,9020515132,LLS,"Upon request.
+Client custom Project Confirmation and Quote Template set to NYS PS69777.
+ ",,,,,,,,,,,,"|Language|TRCE|PR
+|Chinese (Traditional)|E-C|[[Alice (HuiChih) Lee>>url:https://llts.my.workfront.com/user/5380845e000061969e534463034c1417]]
+|Spanish (US)|S2 Lingua|Gabi
+|Farsi|ILA|Bayan
+|Haitian Creole|Creole Solutions|Nathalie Coupet
+|Italian|Akzent|Silvia Hipple
+|Korean|E-C|Kwang Park
+
+If the preferred linguist is unavailable, please reach out to the client to inquire if they would like us to deliver later using the preferred linguist, or assign to a different linguist in order to deliver on time.",,Client doesn't get leveraging ,Client falls under NYS contract #PS69777,"Each language is priced a tiered per word rate. Please refer to “New York State Contract PS69777 Translation pricing 10-2022-2027” sheet for additional details.
+
+Tier 1: $0.17/word
+Spanish, Chinese, Russian, Italian, French, Haitian Creole, Korean, Arabic, Bengali and Polish
+Tier 2: $0.24/word
+All other languages
+
+NOTE: If the requested language is rare and our resources are very limited per Jon Bove's confirmation and approval can charge up to $0.55/word
+
+Formatting (Desktop Publishing):   
+$60/hour for all languages
+
+Document Review (for stand-alone copyedit projects): $55/hour
+
+ADDITIONAL PRICING COMPONENTS
+Client is not charged for the following services:
+~* Proofreading
+~* Project Management
+~* Engineering
+
+OFF CONTRACT (Priced at 50% margin):
+~* Transcription
+~* Recording",25%,No,,Bill all projects to account 9020515132,,,"BDM: 
+
+Daniel McAteer
+
+Phone: 929-232-9665
+
+Email: dmcateer@llts.com"
+Client Info Library.Portland State University,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Portland%20State%20University/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,Portland State University (PSU),,,,,"[[image:1701467995716-936.png||height=""75"" width=""291""]]
+
+[[https:~~/~~/www.pdx.edu/>>url:https://www.pdx.edu/]]","Wiki set up for migration. Existing customer, no work since 2019 - new 2023 request set up in XTRF.",,Lingo Systems (LLTS),,,,,,,,,,,,,,,,[[SD List>>doc:School District & Board of Education List Pricing]],,,,,,,,
+Client Info Library.The Larkin Company,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/The%20Larkin%20Company/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,The Larkin Company,,,,,,,Direct Bill,LLS,,,,,,,,,,,,,,,,Healthcare,"MTPE:
+English> French (France): $0.17/word
+
+ ",,,,,,,
+Client Info Library.Enfield Public Schools,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Enfield%20Public%20Schools/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,Enfield Public Schools,,,,,,,,LLS,,,,,Not a part of TransACT,,,,,,,,,,,School List Pricing,,,,,,,,
+Client Info Library.Franciscan St\. James Health,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Franciscan%20St.%20James%20Health/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,,Franciscan St. James Health,,,,,,,,LLS,,,,,,,,,,,,,,,,LLS block pricing,,,,,,,,
+Client Info Library.Jefferson Healthcare,https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/Jefferson%20Healthcare/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties,XTRF,Jefferson Healthcare,,,,,,,243656,LLS,"Yes,estimate only option in the client portal.",,,,,,,,,,,,,,,HC List Pricing,,,,,,,,
