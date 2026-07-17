@@ -1,6 +1,0 @@
-﻿xwiki_page,xwiki_page_name,xwiki_rest_url,error
-Client Info Library.CSRA (formerly CSC Government Solutions LLC),CSRA (formerly CSC Government Solutions LLC),https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/CSRA%20%28formerly%20CSC%20Government%20Solutions%20LLC%29,"404 error retrieving properties.
-Page: Client Info Library.CSRA (formerly CSC Government Solutions LLC)
-pageName: 'CSRA (formerly CSC Government Solutions LLC)'
-URL: https://wikistage.llts.com:8181/xwiki/rest/wikis/xwiki/spaces/Client%20Info%20Library/pages/CSRA%20%28formerly%20CSC%20Government%20Solutions%20LLC%29/objects/ClientInfoLibraryCode.ClientInfoLibraryClass/0/properties
-Response: {""code"":404,""contactEmail"":null,""description"":""The server has not found anything matching the request URI"",""homeRef"":""/"",""reasonPhrase"":""Not Found"",""uri"":""http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.4.5""}"
