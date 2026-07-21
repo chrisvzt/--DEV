@@ -1,0 +1,8 @@
+[project]
+name = "xwiki-cil-migration"
+version = "1.0.0"
+description = "Migration toolkit for exporting XWiki CIL data and attachments to Atlassian."
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
